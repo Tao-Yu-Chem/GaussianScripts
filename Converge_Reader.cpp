@@ -1,3 +1,9 @@
+/*
+ * Author: Yu Tao (陶豫), Peking University
+ * Last updated: Mar 6, 2021
+ * For introduction of this program, see: http://bbs.keinsci.com/thread-21118-1-1.html
+ */
+
 #include "stdio.h"
 #include "string.h"
 #include "math.h"
